@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **meertcolak06@gmail.com**
 
-- 📄 Know about my experiences [No experience, I'm studying. Open for internship offers](No experience, I'm studying. Open for internship offers)
+- 📄 Know about my experiences No experience, I'm studying. Open for internship offers
 
 - ⚡ Fun fact **There is no funny thing today :(**
 
