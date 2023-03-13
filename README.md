@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafa-mert-çolak-548b3725a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-mert-çolak-548b3725a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@meertcolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@meertcolak" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@meertcolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@meertcolak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
