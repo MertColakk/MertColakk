@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **Başkent University**
 
-- 🌱 I’m currently learning **Penetration Testing Tools**
+- 🌱 I’m currently learning **Penetration Testing Tools and Ruby Programming Language**
 
 - 🤝 I’m interesting with [Cyber Security](https://tryhackme.com/p/QrNX)
 
