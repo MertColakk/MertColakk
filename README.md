@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently studying on **Başkent University**
 
-- 🌱 I’m currently learning **Penetration Testing Tools and Ruby Programming Language**
+- 🌱 I’m currently learning **Python for Machine Learning**
 
-- 🤝 I’m interesting with [Cyber Security](https://tryhackme.com/p/QrNX)
+- 🤝 I’m interesting with Machine Learning and AI Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/MertColakk?tab=repositories](https://github.com/MertColakk?tab=repositories)
 
 - 🧑‍💼 I’m looking to working on a Penetration Testing Tools with Python
 
-- 💬 Ask me about **Python, C, Cyber Security**
+- 💬 Ask me about **Python and C**
 
 - 📫 How to reach me **meertcolak06@gmail.com**
 
-- 📄 Know about my experiences No experience, I'm studying. Open for internship offers
+- 📄 Know about my experiences I have worked for a company called Kaya Yapı Grup(2.5 Years) as a IT technician and I'm open for internship offers.
 
 - ⚡ Fun fact **There is no funny thing today :(**
 
