@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MertColakk?tab=repositories](https://github.com/MertColakk?tab=repositories)
 
-- 🧑‍💼 I’m looking to working on a Penetration Testing Tools with Python
+- 🧑‍💼 I’m looking to working on a Machine Learning
 
 - 💬 Ask me about **Python and C**
 
