@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcolakk&label=Profile%20views&color=0e75b6&style=flat" alt="mertcolakk" /> </p>
 
-- 🔭 I’m currently studying on **Başkent University**
+- 🔭 I’m currently studying on **Başkent University Computer Engineering**
 
 - 🌱 I’m currently learning **Python for Machine Learning**
 
-- 🤝 I’m interesting with Machine Learning and AI Development
+- 🤝 I’m interesting with **Machine Learning and AI Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MertColakk?tab=repositories](https://github.com/MertColakk?tab=repositories)
+- 👨‍💻 All of my projects are available at **[https://github.com/MertColakk?tab=repositories](https://github.com/MertColakk?tab=repositories)**
 
-- 🧑‍💼 I’m looking to working on a Machine Learning
+- 🧑‍💼 I’m looking to working on **Machine Learning**
 
 - 💬 Ask me about **Python and C**
 
 - 📫 How to reach me **meertcolak06@gmail.com**
 
-- 📄 Know about my experiences I have worked for a company called Kaya Yapı Grup(2.5 Years) as a IT technician and I'm open for internship offers.
+- 📄 Know about my experiences **I have worked for a company called Kaya Yapı Grup(2.5 Years) as a IT technician and I'm open for internship offers.**
 
 - ⚡ Fun fact **There is no funny thing today :(**
 
