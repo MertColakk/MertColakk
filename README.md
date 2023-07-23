@@ -8,17 +8,17 @@ I am a software developer with a keen interest in Artificial Intelligence and Ma
 
 ## 💻 Technical Skills
 
-- Python: ![Python](https://img.shields.io/badge/Python-Expert-yellow)
+- Python: ![Python](https://img.shields.io/badge/Python-Advenced-blue)
 - C: ![C](https://img.shields.io/badge/C-Advanced-blue)
 - C++: ![C++](https://img.shields.io/badge/C++-Advanced-blue)
 
 ## 🚀 My Projects
 
-### [Project Name](https://github.com/mustafamertcolak/project)
+### [Machine Learning Bootcamp](https://github.com/MertColakk/MachineLearning)
 
 A brief description and a few lines about the purpose of the project.
 
-### [Another Project](https://github.com/mustafamertcolak/another-project)
+### [Other Project](https://github.com/MertColakk?tab=repositories)
 
 A brief description and a few lines about the purpose of the project.
 
@@ -26,7 +26,7 @@ A brief description and a few lines about the purpose of the project.
 
 - Artificial Intelligence and Machine Learning
 - Data Science
-- TensorFlow and Keras
+- Data Structers in C++
 
 ## 📫 Get in Touch
 
