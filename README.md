@@ -3,8 +3,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MertColakk&color=brightgreen)
 
 ## 🧠 About Me
+From disassembling and tinkering with computers during my childhood to realizing my passion for software later on, my computer journey has been quite the adventure. Although I initially made the wrong university choice, it didn't take long for me to discover that my true calling lay in programming. Transitioning to the Computer Engineering program, I found myself immersed in the fascinating world of Machine Learning and Artificial Intelligence.
 
-I am a software developer with a keen interest in Artificial Intelligence and Machine Learning. I have 2.5 years of experience working in IT at Kaya Construction Group, where I actively participated in various projects.
+As an avid enthusiast in the realm of Machine Learning and AI, I actively explore various domains. I have delved into the exciting realms of cybersecurity (red teaming), game development, and web programming, which have broadened my horizons. However, it didn't take me long to realize that my true passion lies in Machine Learning and Artificial Intelligence. Intrigued by the endless possibilities they offer, I wholeheartedly dedicated myself to this field.
+
+Currently, I am eager to embrace new challenges and opportunities that will allow me to further develop my expertise in Machine Learning and AI. I thrive on creating innovative solutions and contributing to groundbreaking projects that push the boundaries of what's possible in this dynamic field.
+
+If you are as enthusiastic about Machine Learning and AI as I am, let's connect and explore how we can collaborate on exciting ventures and bring remarkable ideas to life!"
+
+Feel free to customize this bio to best reflect your personality and aspirations. Good luck with your LinkedIn profile and future opportunities!
 
 ## 💻 Technical Skills
 
@@ -16,11 +23,11 @@ I am a software developer with a keen interest in Artificial Intelligence and Ma
 
 ### [Machine Learning Bootcamp](https://github.com/MertColakk/MachineLearning)
 
-A brief description and a few lines about the purpose of the project.
+I am sharing my adventure on learning data science and machine learning!
 
 ### [Other Project](https://github.com/MertColakk?tab=repositories)
 
-A brief description and a few lines about the purpose of the project.
+You can see my other projects!
 
 ## 🌱 Currently Learning and Developing
 
@@ -30,7 +37,7 @@ A brief description and a few lines about the purpose of the project.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafamertcolak/)
+- LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafa-mert-%C3%A7olak-548b3725a/)
 - Email: meertcolak06@gmail.com
 
 ## 💼 Experience
