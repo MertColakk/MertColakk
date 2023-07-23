@@ -1,33 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mert aka QrNX</h1>
-<h3 align="center">Welcome To My GitHub Profile</h3>
+# Hi there, I'm Mustafa Mert Çolak 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcolakk&label=Profile%20views&color=0e75b6&style=flat" alt="mertcolakk" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=MertColakk&color=brightgreen)
 
-- 🔭 I’m currently studying on **Başkent University Computer Engineering**
+## 🧠 About Me
 
-- 🌱 I’m currently learning **Python for Machine Learning**
+I am a software developer with a keen interest in Artificial Intelligence and Machine Learning. I have 2.5 years of experience working in IT at Kaya Construction Group, where I actively participated in various projects.
 
-- 🤝 I’m interesting with **Machine Learning and AI Development**
+## 💻 Technical Skills
 
-- 👨‍💻 All of my projects are available at **[https://github.com/MertColakk?tab=repositories](https://github.com/MertColakk?tab=repositories)**
+- Python: ![Python](https://img.shields.io/badge/Python-Expert-yellow)
+- C: ![C](https://img.shields.io/badge/C-Advanced-blue)
+- C++: ![C++](https://img.shields.io/badge/C++-Advanced-blue)
 
-- 🧑‍💼 I’m looking to working on **Machine Learning**
+## 🚀 My Projects
 
-- 💬 Ask me about **Python and C**
+### [Project Name](https://github.com/mustafamertcolak/project)
 
-- 📫 How to reach me **meertcolak06@gmail.com**
+A brief description and a few lines about the purpose of the project.
 
-- 📄 Know about my experiences **I have worked for a company called Kaya Yapı Grup(2.5 Years) as a IT technician and I'm open for internship offers.**
+### [Another Project](https://github.com/mustafamertcolak/another-project)
 
-- ⚡ Fun fact **There is no funny thing today :(**
+A brief description and a few lines about the purpose of the project.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafa-mert-çolak-548b3725a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-mert-çolak-548b3725a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@meertcolak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@meertcolak" height="30" width="40" /></a>
-</p>
+## 🌱 Currently Learning and Developing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Artificial Intelligence and Machine Learning
+- Data Science
+- TensorFlow and Keras
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcolakk&show_icons=true&locale=en&layout=compact" alt="mertcolakk" /></p>
+## 📫 Get in Touch
+
+- LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafamertcolak/)
+- Email: meertcolak06@gmail.com
+
+## 💼 Experience
+
+- Kaya Construction Group - IT (2.5 years)
+
+## 📈 GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertColakk&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
