@@ -11,8 +11,6 @@ Currently, I am eager to embrace new challenges and opportunities that will allo
 
 If you are as enthusiastic about Machine Learning and AI as I am, let's connect and explore how we can collaborate on exciting ventures and bring remarkable ideas to life!"
 
-Feel free to customize this bio to best reflect your personality and aspirations. Good luck with your LinkedIn profile and future opportunities!
-
 ## 💻 Technical Skills
 
 - Python: ![Python](https://img.shields.io/badge/Python-Advenced-blue)
