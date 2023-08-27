@@ -19,13 +19,9 @@ If you are as enthusiastic about Machine Learning and AI as I am, let's connect 
 
 ## 🚀 My Projects
 
-### [Machine Learning Bootcamp](https://github.com/MertColakk/MachineLearning)
+### [Projects](https://github.com/MertColakk?tab=repositories)
 
-I am sharing my adventure on learning data science and machine learning!
-
-### [Other Project](https://github.com/MertColakk?tab=repositories)
-
-You can see my other projects!
+You can see my projects!
 
 ## 🌱 Currently Learning and Developing
 
