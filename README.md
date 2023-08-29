@@ -19,7 +19,12 @@ If you are as enthusiastic about Machine Learning and AI as I am, let's connect 
 
 ## 🚀 My Projects
 
-### [Projects](https://github.com/MertColakk?tab=repositories)
+### Machine Learning Projects
+### [House Price Prediction](https://github.com/MertColakk/House_Price_Guesser)
+### [Wine Quality Prediction](https://github.com/MertColakk/Wine_Quality)
+### [Salary Prediction](https://github.com/MertColakk/Salary_Guesser)
+
+### [All Projects](https://github.com/MertColakk?tab=repositories)
 
 You can see my projects!
 
