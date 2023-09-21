@@ -19,7 +19,7 @@ Cybersecurity is my passion, and I continue to constantly improve myself in this
 - Python: ![Python](https://img.shields.io/badge/Python-Advenced-blue)
 - C: ![C](https://img.shields.io/badge/C-Advanced-blue)
 - C++: ![C++](https://img.shields.io/badge/C++-Advanced-blue)
-- Linux: ![Linux](https://img.shields.io/badge/Linux)
+- Linux
 
 ## 🚀 My Projects
 
