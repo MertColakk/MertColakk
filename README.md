@@ -23,18 +23,18 @@ Cybersecurity is my passion, and I continue to constantly improve myself in this
 
 ## 🚀 My Projects
 
-### Machine Learning Projects
-#### [Car Price Prediction](https://github.com/MertColakk/Car_Price_Prediction)
-#### [House Price Prediction](https://github.com/MertColakk/House_Price_Guesser)
-#### [Wine Quality Prediction](https://github.com/MertColakk/Wine_Quality)
-#### [Salary Prediction](https://github.com/MertColakk/Salary_Guesser)
-
 ### Cyber Security Projects
 #### [Directory Enumeration](https://github.com/MertColakk/Directory_Finder)
 #### [Subdomain Enumeration](https://github.com/MertColakk/Subdomain_Finder)
 #### [Hash Tool](https://github.com/MertColakk/QrNX_Hash_Tool)
 #### [Port Scanner](https://github.com/MertColakk/Port_Scanner)
 #### [Network Scanner](https://github.com/MertColakk/Simple_Net_Scanner)
+
+### Machine Learning Projects
+#### [Car Price Prediction](https://github.com/MertColakk/Car_Price_Prediction)
+#### [House Price Prediction](https://github.com/MertColakk/House_Price_Guesser)
+#### [Wine Quality Prediction](https://github.com/MertColakk/Wine_Quality)
+#### [Salary Prediction](https://github.com/MertColakk/Salary_Guesser)
 
 ### All Projects
 #### [All Projects](https://github.com/MertColakk?tab=repositories)
