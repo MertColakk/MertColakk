@@ -1,5 +1,7 @@
 # Hi there, I'm Mustafa Mert Çolak 👋
 
+<script src="https://tryhackme.com/badge/2246841"></script>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MertColakk&color=brightgreen)
 
 ## 🧠 About Me
