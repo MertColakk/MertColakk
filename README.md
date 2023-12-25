@@ -15,7 +15,7 @@ I decided not to follow the curriculum when I started university because I fell 
 You can explore the games I've created and my work in cybersecurity and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
 ## 💻 Technical Skills
 - Unity
-- C#: ![C](https://img.shields.io/badge/C#-Advanced-blue)
+- C#: ![C#](https://img.shields.io/badge/C#-Advanced-blue)
 - Python: ![Python](https://img.shields.io/badge/Python-Advenced-blue)
 - C: ![C](https://img.shields.io/badge/C-Advanced-blue)
 - C++: ![C++](https://img.shields.io/badge/C++-Advanced-blue)
