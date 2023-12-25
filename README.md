@@ -57,6 +57,7 @@ You can see my projects!
 
 - LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafa-mert-çolak-aa6a112a6/)
 - Email: meertcolak06@gmail.com
+- itch.io: [QrNXDev](http://qrnxdev.itch.io)
 
 ## 💼 Experience
 
