@@ -25,7 +25,7 @@ You can explore the games I've created and my work in cybersecurity and artifici
 
 ## 🚀 My Projects
 ### Bash Projects(Useful Terminal C++ and Java code for Unix(Linux/MacOS))
-#### [C++ and Java Compile Command] (https://github.com/MertColakk/MyBashScripts)
+#### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
 
 ### Java Projects
 #### [Basic ATM Project](https://github.com/MertColakk/Basic_ATM_Project)
