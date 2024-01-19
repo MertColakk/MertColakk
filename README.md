@@ -30,7 +30,7 @@ You can explore the games I've created and my work in cybersecurity and artifici
 
 ### Java Projects
 #### [Basic ATM Project](https://github.com/MertColakk/Basic_ATM_Project)
-#### [Computer Architecture with Composition] (https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
+#### [Computer Architecture with Composition](https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
 
 ### Game Development Projects
 #### [Save The Planet IDLE](https://github.com/MertColakk/SaveThePlanet-Idle)
