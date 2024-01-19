@@ -28,9 +28,10 @@ You can explore the games I've created and my work in cybersecurity and artifici
 ### Bash Projects -> Useful Terminal C++ and Java code for Linux and MacOS
 #### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
 
-### Java Projects
+### Java and C++ Projects
 #### [Basic ATM Project](https://github.com/MertColakk/Basic_ATM_Project)
 #### [Computer Architecture with Composition](https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
+#### [ECG Measurement with MATLAB Data](https://github.com/MertColakk/ECG-Measurement)
 
 ### Game Development Projects
 #### [Save The Planet IDLE](https://github.com/MertColakk/SaveThePlanet-Idle)
