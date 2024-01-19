@@ -20,13 +20,19 @@ You can explore the games I've created and my work in cybersecurity and artifici
 - C++
 - Python
 - Linux
+- Java
   
 
 ## 🚀 My Projects
+### Bash Projects(Useful Terminal C++ and Java code for Unix(Linux/MacOS))
+#### [C++ and Java Compile Command] (https://github.com/MertColakk/MyBashScripts)
+
+### Java Projects
+#### [Basic ATM Project](https://github.com/MertColakk/Basic_ATM_Project)
+#### [Computer Architecture with Composition] (https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
 
 ### Game Development Projects
 #### [Save The Planet IDLE](https://github.com/MertColakk/SaveThePlanet-Idle)
-#### [Evolution](https://github.com/MertColakk/Evolution-Game)
 #### [Meteor Catcher](https://github.com/MertColakk/CatchTheMeteors)
 
 ### Cyber Security Projects
@@ -48,10 +54,9 @@ You can explore the games I've created and my work in cybersecurity and artifici
 You can see my projects!
 
 ## 🌱 Currently Learning and Developing
-
-- Unity
-- C#
-- Data Structers in C++
+- Java
+- OOP terms that i don't know
+  
 
 ## 📫 Get in Touch
 
