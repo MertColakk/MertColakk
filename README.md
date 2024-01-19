@@ -14,16 +14,15 @@ I decided not to follow the curriculum when I started university because I fell 
 
 You can explore the games I've created and my work in cybersecurity and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
 ## 💻 Technical Skills
-- Unity
-- C#
 - C
 - C++
 - Python
 - Linux
 - Java
+- Unity Game Engine
   
 
-## 🚀 My Projects
+## My Projects
 
 ### Bash Projects -> Useful Terminal C++ and Java code for Linux and MacOS
 #### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
