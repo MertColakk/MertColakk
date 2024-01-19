@@ -10,9 +10,9 @@ My fourth-grade computer teacher suggested that I pursue a career in software de
 
 I became interested in cybersecurity and studied it throughout my time in high school. I put off majoring in this field until after graduation, though, after discovering it didn't interest me enough. Upon entering university, I considered pursuing a career in the healthcare industry. However, after learning more about the field, I concluded that it wasn't the best fit for me. I decided to take a lateral move to computer engineering, which allowed me to return to my real passion: computers.
 
-I decided not to follow the curriculum when I started university because I fell in love with software development. My attention was focused on personal projects, and I studied artificial intelligence and cybersecurity. But my genuine love of games drew me back in. In addition to playing games since the middle of high school, I have tried to comprehend the engineering and mathematics that go into them. I therefore made the decision to learn C# and the Unity game engine.
+I decided not to follow the curriculum when I started university because I fell in love with software development. My attention was focused on personal projects, and I studied software development,game development,artificial intelligence and cybersecurity. As enjoyable as game development is, it hindered my sense of being an engineer and led me to return to the field of software development.
 
-You can explore the games I've created and my work in cybersecurity and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
+You can explore the games I've created and my work in software development, cybersecurity and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
 ## 💻 Technical Skills
 - C
 - C++
