@@ -53,6 +53,8 @@ You can explore the games I've created and my work in software development, cybe
 
 ## Python Projects
 ### Cyber Security Projects
+#### [Man In The Middle Attack Tool](https://github.com/MertColakk/MITM_Tool)
+#### [SSH Brute Force Attack Tool](https://github.com/MertColakk/SSH_BruteForce)
 #### [Directory Enumeration](https://github.com/MertColakk/Directory_Finder)
 #### [Subdomain Enumeration](https://github.com/MertColakk/Subdomain_Finder)
 #### [Hash Tool](https://github.com/MertColakk/QrNX_Hash_Tool)
@@ -60,6 +62,7 @@ You can explore the games I've created and my work in software development, cybe
 #### [Network Scanner](https://github.com/MertColakk/Simple_Net_Scanner)
 
 ### Machine Learning Projects
+#### [Code Templates For Machine Learning](https://github.com/MertColakk/Code_Templates_ML)
 #### [Car Price Prediction](https://github.com/MertColakk/Car_Price_Prediction)
 #### [House Price Prediction](https://github.com/MertColakk/House_Price_Guesser)
 #### [Wine Quality Prediction](https://github.com/MertColakk/Wine_Quality)
