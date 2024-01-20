@@ -14,11 +14,10 @@ I decided not to follow the curriculum when I started university because I fell 
 
 You can explore the games I've created and my work in software development, cybersecurity and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
 ## 💻 Technical Skills
-- C
-- C++
-- Python
-- Linux
 - Java
+- C / C++
+- Python
+- Linux / Windows
 - Unity Game Engine
   
 
@@ -27,17 +26,23 @@ You can explore the games I've created and my work in software development, cybe
 ### Bash Projects -> Useful Terminal C++ and Java code for Linux and MacOS
 #### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
 
-### Java, C++ and C Projects
-#### [Space Center Control Simulation->Java](https://github.com/MertColakk/Space_Mission_Control_Center_Simulation)
-#### [Basic ATM Project->Java](https://github.com/MertColakk/Basic_ATM_Project)
-#### [Computer Architecture with Composition->Java](https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
-#### [ECG Measurement with MATLAB Data->C++](https://github.com/MertColakk/ECG-Measurement)
-#### [Restaurant Management System with Data Structers->C](https://github.com/MertColakk/Restaurant_C)
+###Java Projects
+#### [Space Center Control Simulation](https://github.com/MertColakk/Space_Mission_Control_Center_Simulation)
+#### [Basic ATM Project](https://github.com/MertColakk/Basic_ATM_Project)
+#### [Computer Architecture](https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
 
-### Game Development Projects
+## C++ Projects
+#### [ECG Measurement with MATLAB Data](https://github.com/MertColakk/ECG-Measurement)
+#### [Shopping System(Currently Developing)](https://github.com/MertColakk/ShoppingSystem)
+
+## C Projects
+#### [Restaurant Management System](https://github.com/MertColakk/Restaurant_C)
+
+## Game Development Projects
 #### [Save The Planet IDLE](https://github.com/MertColakk/SaveThePlanet-Idle)
 #### [Meteor Catcher](https://github.com/MertColakk/CatchTheMeteors)
 
+## Python Projects
 ### Cyber Security Projects
 #### [Directory Enumeration](https://github.com/MertColakk/Directory_Finder)
 #### [Subdomain Enumeration](https://github.com/MertColakk/Subdomain_Finder)
@@ -51,12 +56,12 @@ You can explore the games I've created and my work in software development, cybe
 #### [Wine Quality Prediction](https://github.com/MertColakk/Wine_Quality)
 #### [Salary Prediction](https://github.com/MertColakk/Salary_Guesser)
 
-### All Projects
+## All Projects
 #### [All Projects](https://github.com/MertColakk?tab=repositories)
 
 You can see my projects!
 
-## 🌱 Currently Learning and Developing
+## Currently Learning and Developing
 - Java
 - OOP terms that i don't know
   
@@ -67,7 +72,7 @@ You can see my projects!
 - Email: meertcolak06@gmail.com
 - itch.io: [QrNXDev](http://qrnxdev.itch.io)
 
-## 💼 Experience
+## Experience
 
 - Kaya Construction Group - IT (2.5 years)
 
