@@ -23,6 +23,10 @@ You can explore the games I've created and my work in software development, cybe
 
 ## My Projects
 
+## Ruby Projects
+#### [Basic Ruby Projects](https://github.com/MertColakk/Basic_Ruby_Projects)
+
+
 ## Bash Projects -> Useful Terminal C++ and Java code for Linux and MacOS
 #### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
 
