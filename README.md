@@ -23,24 +23,29 @@ You can explore the games I've created and my work in software development, cybe
 
 ## My Projects
 
-### Bash Projects -> Useful Terminal C++ and Java code for Linux and MacOS
+## Bash Projects -> Useful Terminal C++ and Java code for Linux and MacOS
 #### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
+
 
 ## Java Projects
 #### [Space Center Control Simulation](https://github.com/MertColakk/Space_Mission_Control_Center_Simulation)
 #### [Basic ATM Project](https://github.com/MertColakk/Basic_ATM_Project)
 #### [Computer Architecture](https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
 
+
 ## C++ Projects
 #### [ECG Measurement with MATLAB Data](https://github.com/MertColakk/ECG-Measurement)
 #### [Shopping System(Currently Developing)](https://github.com/MertColakk/ShoppingSystem)
 
+
 ## C Projects
 #### [Restaurant Management System](https://github.com/MertColakk/Restaurant_C)
 
-## Game Development Projects
+
+## Game Development Projects(C#)
 #### [Save The Planet IDLE](https://github.com/MertColakk/SaveThePlanet-Idle)
 #### [Meteor Catcher](https://github.com/MertColakk/CatchTheMeteors)
+
 
 ## Python Projects
 ### Cyber Security Projects
