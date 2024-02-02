@@ -26,7 +26,7 @@ You can explore the games I've created and my work in software development, cybe
 ## My Projects
 
 ## HTML,CSS and JavaScript Projects
-#### [Basic CV with HTMl](https://github.com/MertColakk/HTML-CV-Basic)
+#### [Basic CV with HTML](https://github.com/MertColakk/HTML-CV-Basic)
 #### [Basic Meme Page with HTML and CSS](https://github.com/MertColakk/HTML-Meme-Page)
 #### [Dice Game](https://github.com/MertColakk/Dice-Game)
 
