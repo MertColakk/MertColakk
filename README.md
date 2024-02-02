@@ -19,9 +19,16 @@ You can explore the games I've created and my work in software development, cybe
 - Python
 - Linux / Windows
 - Unity Game Engine
+- HTML
+- Basic CSS
   
 
 ## My Projects
+
+## HTML,CSS and JavaScript Projects
+#### [Basic CV with HTMl](https://github.com/MertColakk/HTML-CV-Basic)
+#### [Basic Meme Page with HTML and CSS](https://github.com/MertColakk/HTML-Meme-Page)
+#### [Dice Game](https://github.com/MertColakk/Dice-Game)
 
 ## Ruby Projects
 #### [Basic Ruby Projects](https://github.com/MertColakk/Basic_Ruby_Projects)
@@ -74,8 +81,7 @@ You can explore the games I've created and my work in software development, cybe
 You can see my projects!
 
 ## Currently Learning and Developing
-- Java
-- OOP terms that i don't know
+- JavaScript for Backend Web Development
   
 
 ## 📫 Get in Touch
