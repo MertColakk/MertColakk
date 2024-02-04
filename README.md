@@ -26,9 +26,12 @@ You can explore the games I've created and my work in software development, cybe
 ## My Projects
 
 ## HTML,CSS and JavaScript Projects
-#### [Basic CV with HTML](https://github.com/MertColakk/HTML-CV-Basic)
-#### [Basic Meme Page with HTML and CSS](https://github.com/MertColakk/HTML-Meme-Page)
+#### [Interactive Drum Kit](https://github.com/MertColakk/Drum-Kit-JS)
+#### [Simon Game with JQuery](https://github.com/MertColakk/Simon-Game)
 #### [Dice Game](https://github.com/MertColakk/Dice-Game)
+#### [Basic Meme Page with HTML and CSS](https://github.com/MertColakk/HTML-Meme-Page)
+#### [Basic CV with HTML](https://github.com/MertColakk/HTML-CV-Basic)
+
 
 ## Ruby Projects
 #### [Basic Ruby Projects](https://github.com/MertColakk/Basic_Ruby_Projects)
