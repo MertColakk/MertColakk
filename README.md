@@ -26,7 +26,7 @@ You can explore the games I've created and my work in software development, cybe
 ## My Projects
 
 ## HTML,CSS and JavaScript Projects
-#### [Simple Blog Page](https://github.com/MertColakk/Blog-Page)
+#### [Blog Page](https://github.com/MertColakk/Blog-Page)
 #### [Interactive Drum Kit](https://github.com/MertColakk/Drum-Kit-JS)
 #### [Simon Game with JQuery](https://github.com/MertColakk/Simon-Game)
 #### [Dice Game](https://github.com/MertColakk/Dice-Game)
