@@ -14,14 +14,11 @@ I decided not to follow the curriculum when I started university because I fell 
 
 You can explore the games I've created and my work in software development, cybersecurity and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
 ## 💻 Technical Skills
+- Python(Pandas,NumPy,Matplotlib and currently learning YOLOv8 and OpenCV)
 - Java
 - C / C++
-- Python
-- Linux / Windows
+- Linux / Windows / MacOS
 - Unity Game Engine
-- HTML
-- Basic CSS
-  
 
 ## My Projects
 
