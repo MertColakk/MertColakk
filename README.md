@@ -63,6 +63,9 @@ You can explore the games I've created and my work in software development, cybe
 
 
 ## Python Projects
+### Image Processing Projects
+#### [HSV Color Detector](https://github.com/MertColakk/HSVColorDetector)
+
 ### Cyber Security Projects
 #### [Man In The Middle Attack Tool](https://github.com/MertColakk/MITM_Tool)
 #### [SSH Brute Force Attack Tool](https://github.com/MertColakk/SSH_BruteForce)
