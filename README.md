@@ -12,7 +12,7 @@ I became interested in cybersecurity and studied it throughout my time in high s
 
 I decided not to follow the curriculum when I started university because I fell in love with software development. My attention was focused on personal projects, and I studied software development,game development,artificial intelligence and cybersecurity. As enjoyable as game development is, it hindered my sense of being an engineer and led me to return to the field of software development.
 
-You can explore the games I've created and my work in software development, cybersecurity and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
+You can explore my work in software development like image processing and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
 ## 💻 Technical Skills
 - Python(Pandas,NumPy,Matplotlib and currently learning YOLOv8 and OpenCV)
 - Java
