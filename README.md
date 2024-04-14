@@ -56,15 +56,12 @@ You can explore my work in software development like image processing and artifi
 #### [Basic Ruby Projects](https://github.com/MertColakk/Basic_Ruby_Projects)
 
 
-## Bash Projects -> Useful Terminal C++ and Java code for Linux and MacOS
+## Bash Projects
 #### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
 
 
 ## Java Projects
 #### [Space Center Control Simulation](https://github.com/MertColakk/Space_Mission_Control_Center_Simulation)
-#### [Basic ATM Project](https://github.com/MertColakk/Basic_ATM_Project)
-#### [Computer Architecture](https://github.com/MertColakk/Computer_Architecture_Composition_Ex)
-
 
 ## C++ Projects
 #### [ECG Measurement with MATLAB Data](https://github.com/MertColakk/ECG-Measurement)
