@@ -25,6 +25,7 @@ You can explore my work in software development like image processing and artifi
 ## Python Projects
 ### Image Processing Projects
 #### [HSV Color Detector](https://github.com/MertColakk/HSVColorDetector)
+#### [Hand Tracker](https://github.com/MertColakk/HandTracking)
 
 ### Machine Learning Projects
 #### [Code Templates For Machine Learning](https://github.com/MertColakk/Code_Templates_ML)
