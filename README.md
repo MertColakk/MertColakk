@@ -82,7 +82,7 @@ You can explore my work in software development like image processing and artifi
 You can see my projects!
 
 ## Currently Learning and Developing
-- JavaScript for Backend Web Development
+- Image processing and deep learning!
   
 
 ## 📫 Get in Touch
