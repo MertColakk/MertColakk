@@ -18,7 +18,6 @@ You can explore my work in software development like image processing and artifi
 - Java
 - C / C++
 - Linux / Windows / MacOS
-- Unity Game Engine
 
 ## My Projects
 
