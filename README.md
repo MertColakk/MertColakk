@@ -35,15 +35,6 @@ You can explore my work in software development like image processing and artifi
 #### [Wine Quality Prediction](https://github.com/MertColakk/Wine_Quality)
 #### [Salary Prediction](https://github.com/MertColakk/Salary_Guesser)
 
-### Cyber Security Projects
-#### [Man In The Middle Attack Tool](https://github.com/MertColakk/MITM_Tool)
-#### [SSH Brute Force Attack Tool](https://github.com/MertColakk/SSH_BruteForce)
-#### [Directory Enumeration](https://github.com/MertColakk/Directory_Finder)
-#### [Subdomain Enumeration](https://github.com/MertColakk/Subdomain_Finder)
-#### [Hash Tool](https://github.com/MertColakk/QrNX_Hash_Tool)
-#### [Port Scanner](https://github.com/MertColakk/Port_Scanner)
-#### [Network Scanner](https://github.com/MertColakk/Simple_Net_Scanner)
-
 ## HTML,CSS and JavaScript Projects
 #### [Blog Page](https://github.com/MertColakk/Blog-Page)
 #### [Interactive Drum Kit](https://github.com/MertColakk/Drum-Kit-JS)
@@ -52,26 +43,14 @@ You can explore my work in software development like image processing and artifi
 #### [Basic Meme Page with HTML and CSS](https://github.com/MertColakk/HTML-Meme-Page)
 #### [Basic CV with HTML](https://github.com/MertColakk/HTML-CV-Basic)
 
-
-## Ruby Projects
-#### [Basic Ruby Projects](https://github.com/MertColakk/Basic_Ruby_Projects)
-
-
-## Bash Projects
-#### [C++ and Java Compile Command](https://github.com/MertColakk/MyBashScripts)
-
-
-## Java Projects
-#### [Space Center Control Simulation](https://github.com/MertColakk/Space_Mission_Control_Center_Simulation)
-
-## C++ Projects
-#### [ECG Measurement with MATLAB Data](https://github.com/MertColakk/ECG-Measurement)
-#### [Shopping System(Currently Developing)](https://github.com/MertColakk/ShoppingSystem)
-
-
-## C Projects
-#### [Restaurant Management System](https://github.com/MertColakk/Restaurant_C)
-
+## Cyber Security Projects
+#### [Man In The Middle Attack Tool](https://github.com/MertColakk/MITM_Tool)
+#### [SSH Brute Force Attack Tool](https://github.com/MertColakk/SSH_BruteForce)
+#### [Directory Enumeration](https://github.com/MertColakk/Directory_Finder)
+#### [Subdomain Enumeration](https://github.com/MertColakk/Subdomain_Finder)
+#### [Hash Tool](https://github.com/MertColakk/QrNX_Hash_Tool)
+#### [Port Scanner](https://github.com/MertColakk/Port_Scanner)
+#### [Network Scanner](https://github.com/MertColakk/Simple_Net_Scanner)
 
 ## Game Development Projects(C#)
 #### [Save The Planet IDLE](https://github.com/MertColakk/SaveThePlanet-Idle)
@@ -90,11 +69,11 @@ You can see my projects!
 
 - LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafa-mert-çolak-aa6a112a6/)
 - Email: meertcolak06@gmail.com
-- itch.io: [QrNXDev](http://qrnxdev.itch.io)
 
 ## Experience
 
 - Kaya Construction Group - IT (2.5 years)
+- BITES Defence & Aerospace - Image Processing Department (Summer Intern)
 
 ## 📈 GitHub Statistics
 
