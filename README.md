@@ -1,24 +1,5 @@
 # Hi there, I'm Mustafa Mert Çolak 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=MertColakk&color=brightgreen)
-
-## 🧠 About Me
-Greetings, this is Mert.
-When I was six years old, my uncle gave me a computer, which marked the start of my computer adventure. The first thrill of gaming sparked my interest in computers' internal mechanisms, which frequently led to me attempting to disassemble them.
-
-My fourth-grade computer teacher suggested that I pursue a career in software development due to my talent with computers and mathematics. Nevertheless, my early exposure to software was delayed since I didn't know anyone who was engaged in this area.
-
-I became interested in cybersecurity and studied it throughout my time in high school. I put off majoring in this field until after graduation, though, after discovering it didn't interest me enough. Upon entering university, I considered pursuing a career in the healthcare industry. However, after learning more about the field, I concluded that it wasn't the best fit for me. I decided to take a lateral move to computer engineering, which allowed me to return to my real passion: computers.
-
-I decided not to follow the curriculum when I started university because I fell in love with software development. My attention was focused on personal projects, and I studied software development,game development,artificial intelligence and cybersecurity. As enjoyable as game development is, it hindered my sense of being an engineer and led me to return to the field of software development.
-
-You can explore my work in software development like image processing and artificial intelligence on my GitHub profile. I am open to any relevant job opportunities and eagerly look forward to collaborating on projects!
-## 💻 Technical Skills
-- Python(Pandas,NumPy,Matplotlib)
-- Java
-- C / C++
-- Linux / Windows / MacOS
-
 ## My Projects
 
 ## Python Projects
@@ -65,16 +46,12 @@ You can see my projects!
 - Image processing and deep learning!
   
 
-## 📫 Get in Touch
+## Get in Touch
 
 - LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafa-mert-çolak-aa6a112a6/)
 - Email: meertcolak06@gmail.com
 
 ## Experience
 
-- Kaya Construction Group - IT (2.5 years)
-- BITES Defence & Aerospace - Image Processing Department (Summer Intern)
-
-## 📈 GitHub Statistics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertColakk&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- Kaya Construction Group - IT 
+- BITES Defence & Aerospace - Image Processing Department 
