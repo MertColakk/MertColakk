@@ -49,7 +49,7 @@ You can see my projects!
 ## Get in Touch
 
 - LinkedIn: [Mustafa Mert Çolak](https://www.linkedin.com/in/mustafa-mert-çolak-aa6a112a6/)
-- Email: meertcolak06@gmail.com
+- Email: mustafamertcolakk@gmail.com
 
 ## Experience
 
