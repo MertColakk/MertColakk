@@ -16,14 +16,6 @@
 #### [Wine Quality Prediction](https://github.com/MertColakk/Wine_Quality)
 #### [Salary Prediction](https://github.com/MertColakk/Salary_Guesser)
 
-## HTML,CSS and JavaScript Projects
-#### [Blog Page](https://github.com/MertColakk/Blog-Page)
-#### [Interactive Drum Kit](https://github.com/MertColakk/Drum-Kit-JS)
-#### [Simon Game with JQuery](https://github.com/MertColakk/Simon-Game)
-#### [Dice Game](https://github.com/MertColakk/Dice-Game)
-#### [Basic Meme Page with HTML and CSS](https://github.com/MertColakk/HTML-Meme-Page)
-#### [Basic CV with HTML](https://github.com/MertColakk/HTML-CV-Basic)
-
 ## Cyber Security Projects
 #### [Man In The Middle Attack Tool](https://github.com/MertColakk/MITM_Tool)
 #### [SSH Brute Force Attack Tool](https://github.com/MertColakk/SSH_BruteForce)
